@@ -1,7 +1,7 @@
 const inputField = document.getElementById("input-btn");
 const submitbtn = document.getElementById("submit-btn");
 
-const names = ["ayan"];
+const names = ["ayan","chirag","ashwani"];
 
 submitbtn.addEventListener("click", () => {
     console.log("btn clicked")
